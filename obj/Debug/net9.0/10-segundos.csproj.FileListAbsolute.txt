@@ -1,0 +1,15 @@
+C:\Users\user\Documents\10 segundos\10-segundos\bin\Debug\net9.0\10-segundos.exe
+C:\Users\user\Documents\10 segundos\10-segundos\bin\Debug\net9.0\10-segundos.deps.json
+C:\Users\user\Documents\10 segundos\10-segundos\bin\Debug\net9.0\10-segundos.runtimeconfig.json
+C:\Users\user\Documents\10 segundos\10-segundos\bin\Debug\net9.0\10-segundos.dll
+C:\Users\user\Documents\10 segundos\10-segundos\bin\Debug\net9.0\10-segundos.pdb
+C:\Users\user\Documents\10 segundos\10-segundos\obj\Debug\net9.0\10-segundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\10 segundos\10-segundos\obj\Debug\net9.0\10-segundos.AssemblyInfoInputs.cache
+C:\Users\user\Documents\10 segundos\10-segundos\obj\Debug\net9.0\10-segundos.AssemblyInfo.cs
+C:\Users\user\Documents\10 segundos\10-segundos\obj\Debug\net9.0\10-segundos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\10 segundos\10-segundos\obj\Debug\net9.0\10-segundos.sourcelink.json
+C:\Users\user\Documents\10 segundos\10-segundos\obj\Debug\net9.0\10-segundos.dll
+C:\Users\user\Documents\10 segundos\10-segundos\obj\Debug\net9.0\refint\10-segundos.dll
+C:\Users\user\Documents\10 segundos\10-segundos\obj\Debug\net9.0\10-segundos.pdb
+C:\Users\user\Documents\10 segundos\10-segundos\obj\Debug\net9.0\10-segundos.genruntimeconfig.cache
+C:\Users\user\Documents\10 segundos\10-segundos\obj\Debug\net9.0\ref\10-segundos.dll
